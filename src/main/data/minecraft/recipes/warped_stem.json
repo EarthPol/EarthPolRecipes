@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": 
+  [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": 
+  {
+    "a": 
+	{
+      "tag": "minecraft:logs"
+    },
+    "b": 
+	{
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": 
+  {
+    "item": "minecraft:warped_stem",
+    "count": 8
+  }
+}

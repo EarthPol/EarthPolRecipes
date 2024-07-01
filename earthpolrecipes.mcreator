@@ -1,14 +1,422 @@
 {
   "mod_elements": [
     {
-      "name": "String",
+      "name": "Chainboots",
       "type": "recipe",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "string",
+      "registry_name": "chainboots",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/string.json"
+          "src/main/data/earthpolrecipes/recipes/chain_boots.json"
+        ]
+      }
+    },
+    {
+      "name": "Stringtowhitewool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringtowhitewool",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/string_to_white_wool.json"
+        ]
+      }
+    },
+    {
+      "name": "Chainchestplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainchestplate",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/chain_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Chainhelmet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainhelmet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/chain_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "Chainleggings",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainleggings",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/chain_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Custombell",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custombell",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_bell.json"
+        ]
+      }
+    },
+    {
+      "name": "Customblackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customblackstone",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_blackstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Customblazerod",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customblazerod",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_blaze_rod.json"
+        ]
+      }
+    },
+    {
+      "name": "Customblueice",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customblueice",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_blue_ice.json"
+        ]
+      }
+    },
+    {
+      "name": "Custombundle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custombundle",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_bundle.json"
+        ]
+      }
+    },
+    {
+      "name": "Customcoasttrim",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customcoasttrim",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_coast_trim.json"
+        ]
+      }
+    },
+    {
+      "name": "Customdiamondhorsearmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customdiamondhorsearmor",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_diamond_horse_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "Customdragonsbreath",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customdragonsbreath",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_dragons_breath.json"
+        ]
+      }
+    },
+    {
+      "name": "Customdunetrim",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customdunetrim",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_dune_trim.json"
+        ]
+      }
+    },
+    {
+      "name": "Customendstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customendstone",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_end_stone.json"
+        ]
+      }
+    },
+    {
+      "name": "Customeyetrim",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customeyetrim",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_eye_trim.json"
+        ]
+      }
+    },
+    {
+      "name": "Glisteringmelonslice",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glisteringmelonslice",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/glistering_melon_slice.json"
+        ]
+      }
+    },
+    {
+      "name": "Customglowstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customglowstone",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_glowstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Customgoldhorsearmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customgoldhorsearmor",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_gold_horse_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "Customironhorsearmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customironhorsearmor",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_iron_horse_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "Customleatherhorsearmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customleatherhorsearmor",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_leather_horse_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "Customnetheriteupgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customnetheriteupgrade",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_netherite_upgrade.json"
+        ]
+      }
+    },
+    {
+      "name": "Customnetherrack",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customnetherrack",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_netherrack.json"
+        ]
+      }
+    },
+    {
+      "name": "Customnetherwart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customnetherwart",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_nether_wart.json"
+        ]
+      }
+    },
+    {
+      "name": "Custompackedice",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custompackedice",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_packed_ice.json"
+        ]
+      }
+    },
+    {
+      "name": "Custompoweredrails",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custompoweredrails",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_powered_rails.json"
+        ]
+      }
+    },
+    {
+      "name": "Customprismarineshard",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customprismarineshard",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_prismarine_shard.json"
+        ]
+      }
+    },
+    {
+      "name": "Customquartz",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customquartz",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_quartz.json"
+        ]
+      }
+    },
+    {
+      "name": "Customsaddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customsaddle",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_saddle.json"
+        ]
+      }
+    },
+    {
+      "name": "Customsoulsand",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customsoulsand",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_soul_sand.json"
+        ]
+      }
+    },
+    {
+      "name": "Customsponge",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customsponge",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_sponge.json"
+        ]
+      }
+    },
+    {
+      "name": "Customstring",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customstring",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_string.json"
+        ]
+      }
+    },
+    {
+      "name": "Customprismarinecrystal",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customprismarinecrystal",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_prismarine_crystal.json"
+        ]
+      }
+    },
+    {
+      "name": "Customslimeball",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customslimeball",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/customslimeball.json"
+        ]
+      }
+    },
+    {
+      "name": "Custominksac",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custominksac",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_inksac.json"
         ]
       }
     }

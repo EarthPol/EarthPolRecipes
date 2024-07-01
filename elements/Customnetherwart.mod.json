@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 4,
-    "group": "",
+    "group": "custom",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
@@ -24,25 +24,25 @@
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.RED_MUSHROOM"
+      },
+      {
+        "value": "Blocks.SWEET_BERRY_BUSH"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.SWEET_BERRY_BUSH"
       },
       {
-        "value": ""
-      },
-      {
-        "value": "Blocks.WOOL#0"
+        "value": "Blocks.SWEET_BERRY_BUSH"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.STRING"
+      "value": "Blocks.NETHER_WART"
     },
-    "name": "string",
-    "namespace": "minecraft"
+    "name": "custom_nether_wart",
+    "namespace": "mod"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "custom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 60,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.IRON_BARS"
+    },
+    "blastingReturnStack": {
+      "value": "Items.BLAZE_ROD"
+    },
+    "name": "custom_blaze_rod",
+    "namespace": "mod"
+  }
+}

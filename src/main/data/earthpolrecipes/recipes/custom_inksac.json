@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "group": "custom",
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:white_wool"
+      "tag": "minecraft:coals"
     }
   ],
   "result": {
-    "item": "minecraft:string",
-    "count": 4
+    "item": "minecraft:ink_sac",
+    "count": 1
   }
 }

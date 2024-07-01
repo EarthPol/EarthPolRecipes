@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "custom",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:eye_armor_trim_smithing_template",
+    "count": 1
+  }
+}

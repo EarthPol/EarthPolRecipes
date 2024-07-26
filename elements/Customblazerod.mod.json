@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Blasting",
     "recipeRetstackSize": 1,
-    "group": "custom",
+    "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 1.0,
     "cookingTime": 60,

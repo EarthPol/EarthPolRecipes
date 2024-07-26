@@ -424,6 +424,7 @@
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
+  "tab_element_order": {},
   "language_map": {
     "en_us": {}
   },
@@ -443,8 +444,8 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "datapack-1.20.4",
+    "currentGenerator": "datapack-1.20.6",
     "modElementsPackage": "net.mcreator.earthpolrecipes"
   },
-  "mcreatorVersion": 202400118518
+  "mcreatorVersion": 202400229712
 }

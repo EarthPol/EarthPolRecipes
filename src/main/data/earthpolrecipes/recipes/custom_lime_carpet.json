@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "custom",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_carpet"
+    }
+  ],
+  "result": {
+    "id": "minecraft:lime_carpet",
+    "count": 3
+  }
+}

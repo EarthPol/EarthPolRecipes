@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "custom",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_carpet"
+    }
+  ],
+  "result": {
+    "id": "minecraft:magenta_carpet",
+    "count": 3
+  }
+}

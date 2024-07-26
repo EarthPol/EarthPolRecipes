@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "custom",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_carpet"
+    }
+  ],
+  "result": {
+    "id": "minecraft:purple_carpet",
+    "count": 3
+  }
+}

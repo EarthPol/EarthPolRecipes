@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 12,
+    "recipeRetstackSize": 3,
     "group": "custom",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -24,25 +24,25 @@
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.SWEET_BERRIES"
+      },
+      {
+        "value": "Items.SWEET_BERRIES"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.SWEET_BERRIES"
       },
       {
-        "value": ""
-      },
-      {
-        "value": "Items.PRISMARINE_SHARD"
+        "value": "Items.DYE#13"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.PRISMARINE_CRYSTALS"
+      "value": "Blocks.CHORUS_FLOWER"
     },
-    "name": "custom_prismarine_crystal",
+    "name": "custom_chorus_flower",
     "namespace": "mod"
   }
 }

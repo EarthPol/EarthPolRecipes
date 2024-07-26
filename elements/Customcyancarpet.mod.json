@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 8,
+    "recipeRetstackSize": 3,
     "group": "custom",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -12,37 +12,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Items.DYE#16"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.CARPET#9"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.BLACKSTONE"
+      "value": "Blocks.CARPET#9"
     },
-    "name": "custom_blackstone",
+    "name": "custom_cyan_carpet",
     "namespace": "mod"
   }
 }

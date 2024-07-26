@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "custom",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:moss_carpet"
+    }
+  ],
+  "result": {
+    "id": "minecraft:moss_carpet",
+    "count": 3
+  }
+}

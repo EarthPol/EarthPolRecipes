@@ -4,7 +4,28 @@
   "category": "building",
   "ingredients": [
     {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
       "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
     },
     {
       "item": "minecraft:cobblestone"
@@ -12,6 +33,6 @@
   ],
   "result": {
     "id": "minecraft:blackstone",
-    "count": 1
+    "count": 8
   }
 }

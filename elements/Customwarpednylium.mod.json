@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 8,
+    "recipeRetstackSize": 2,
     "group": "custom",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -12,37 +12,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Items.DYE#16"
+        "value": "Blocks.GRASS"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.BROWN_MUSHROOM"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.NETHERRACK"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.BLACKSTONE"
+      "value": "Blocks.WARPED_NYLIUM"
     },
-    "name": "custom_blackstone",
+    "name": "custom_warped_nylium",
     "namespace": "mod"
   }
 }

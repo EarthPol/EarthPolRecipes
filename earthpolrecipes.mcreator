@@ -277,18 +277,6 @@
       }
     },
     {
-      "name": "Customnetherwart",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customnetherwart",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_nether_wart.json"
-        ]
-      }
-    },
-    {
       "name": "Custompackedice",
       "type": "recipe",
       "compiles": true,
@@ -417,6 +405,294 @@
       "metadata": {
         "files": [
           "src/main/data/earthpolrecipes/recipes/custom_inksac.json"
+        ]
+      }
+    },
+    {
+      "name": "Customnetherwart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customnetherwart",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_nether_wart.json"
+        ]
+      }
+    },
+    {
+      "name": "Customwarpednylium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customwarpednylium",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_warped_nylium.json"
+        ]
+      }
+    },
+    {
+      "name": "Customcrimsonnylium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customcrimsonnylium",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_crimson_nylium.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomPearlscentFroglight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_pearlscent_froglight",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_pearlscent_froglight.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomVerdantFroglight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_verdant_froglight",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_verdant_froglight.json"
+        ]
+      }
+    },
+    {
+      "name": "Customochrefroglight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customochrefroglight",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_ochre_froglight.json"
+        ]
+      }
+    },
+    {
+      "name": "Customchorusflower",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customchorusflower",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_chorus_flower.json"
+        ]
+      }
+    },
+    {
+      "name": "Customwhitecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customwhitecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_white_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customorangecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customorangecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_orange_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custommagentacarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custommagentacarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_magenta_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customlightbluecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customlightbluecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_light_blue_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customyellowcarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customyellowcarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_yellow_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customlimecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customlimecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_lime_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custompinkcarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custompinkcarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_pink_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customgraycarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customgraycarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_gray_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customlightgraycarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customlightgraycarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_light_gray_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customcyancarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customcyancarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_cyan_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custompurplecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custompurplecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_purple_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custombluecarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custombluecarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_blue_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custombrowncarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custombrowncarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_brown_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customgreencarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customgreencarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_green_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customredcarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customredcarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_red_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Customblackcarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "customblackcarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_black_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "Custommosscarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custommosscarpet",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_moss_carpet.json"
         ]
       }
     }

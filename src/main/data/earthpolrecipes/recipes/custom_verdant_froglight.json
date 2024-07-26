@@ -3,19 +3,20 @@
   "group": "custom",
   "category": "misc",
   "pattern": [
-    "aa",
-    "ab"
+    "aaa",
+    "aba",
+    "aaa"
   ],
   "key": {
     "a": {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:glowstone"
     },
     "b": {
-      "item": "minecraft:red_mushroom"
+      "item": "minecraft:green_dye"
     }
   },
   "result": {
-    "id": "minecraft:nether_wart",
-    "count": 4
+    "id": "minecraft:verdant_froglight",
+    "count": 8
   }
 }

@@ -9,40 +9,40 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "craftingBookCategory": "BUILDING",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Items.DYE#16"
+        "value": "Items.DYE#11"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       },
       {
-        "value": "Blocks.COBBLESTONE"
+        "value": "Blocks.GLOWSTONE"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.BLACKSTONE"
+      "value": "Blocks.OCHRE_FROGLIGHT"
     },
-    "name": "custom_blackstone",
+    "name": "custom_ochre_froglight",
     "namespace": "mod"
   }
 }

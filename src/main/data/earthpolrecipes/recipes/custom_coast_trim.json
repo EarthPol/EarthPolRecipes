@@ -11,7 +11,7 @@
       "item": "minecraft:copper_ingot"
     },
     "b": {
-      "tag": "minecraft:sand"
+      "item": "minecraft:sand"
     }
   },
   "result": {

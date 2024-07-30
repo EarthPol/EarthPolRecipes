@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "category": "misc",
   "pattern": [
     "aba",
     "aba",
@@ -11,11 +11,11 @@
       "item": "minecraft:copper_ingot"
     },
     "b": {
-      "item": "minecraft:sand"
+      "item": "minecraft:netherrack"
     }
   },
   "result": {
-    "id": "minecraft:coast_armor_trim_smithing_template",
+    "id": "minecraft:rib_armor_trim_smithing_template",
     "count": 1
   }
 }

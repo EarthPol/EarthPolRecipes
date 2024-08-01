@@ -12,37 +12,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": ""
+        "value": "Blocks.POLISHED_DEEPSLATE"
       },
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": "Items.SNOWBALL"
+        "value": "Blocks.POLISHED_DEEPSLATE"
       },
       {
-        "value": "Items.DYE#2"
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": ""
+        "value": "Items.COPPER_INGOT"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SLIME_BALL"
+      "value": "Items.SILENCE_ARMOR_TRIM"
     },
-    "name": "custom_slimeball",
-    "namespace": "mod"
+    "name": "silence_armor_trim_smithing_template",
+    "namespace": "minecraft"
   }
 }

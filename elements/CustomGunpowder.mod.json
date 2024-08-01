@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 8,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -12,37 +12,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": "Items.SNOWBALL"
+        "value": "Items.COAL#0"
       },
       {
-        "value": "Items.DYE#2"
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
-        "value": ""
+        "value": "Items.GLOWSTONE_DUST"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SLIME_BALL"
+      "value": "Items.GUNPOWDER"
     },
-    "name": "custom_slimeball",
+    "name": "custom_gunpowder",
     "namespace": "mod"
   }
 }

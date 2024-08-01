@@ -2,18 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "ab"
+    "aba",
+    "aba",
+    "aaa"
   ],
   "key": {
     "a": {
-      "item": "minecraft:snowball"
+      "item": "minecraft:copper_ingot"
     },
     "b": {
-      "item": "minecraft:green_dye"
+      "item": "minecraft:sand"
     }
   },
   "result": {
-    "id": "minecraft:slime_ball",
+    "id": "minecraft:coast_armor_trim_smithing_template",
     "count": 1
   }
 }

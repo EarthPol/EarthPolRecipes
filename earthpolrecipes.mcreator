@@ -97,18 +97,6 @@
       }
     },
     {
-      "name": "Customblueice",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customblueice",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_blue_ice.json"
-        ]
-      }
-    },
-    {
       "name": "Custombundle",
       "type": "recipe",
       "compiles": true,
@@ -117,18 +105,6 @@
       "metadata": {
         "files": [
           "src/main/data/earthpolrecipes/recipes/custom_bundle.json"
-        ]
-      }
-    },
-    {
-      "name": "Customcoasttrim",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customcoasttrim",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_coast_trim.json"
         ]
       }
     },
@@ -157,18 +133,6 @@
       }
     },
     {
-      "name": "Customdunetrim",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customdunetrim",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_dune_trim.json"
-        ]
-      }
-    },
-    {
       "name": "Customendstone",
       "type": "recipe",
       "compiles": true,
@@ -177,18 +141,6 @@
       "metadata": {
         "files": [
           "src/main/data/earthpolrecipes/recipes/custom_end_stone.json"
-        ]
-      }
-    },
-    {
-      "name": "Customeyetrim",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customeyetrim",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_eye_trim.json"
         ]
       }
     },
@@ -277,30 +229,6 @@
       }
     },
     {
-      "name": "Custompackedice",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "custompackedice",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_packed_ice.json"
-        ]
-      }
-    },
-    {
-      "name": "Custompoweredrails",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "custompoweredrails",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_powered_rails.json"
-        ]
-      }
-    },
-    {
       "name": "Customprismarineshard",
       "type": "recipe",
       "compiles": true,
@@ -381,18 +309,6 @@
       "metadata": {
         "files": [
           "src/main/data/earthpolrecipes/recipes/custom_prismarine_crystal.json"
-        ]
-      }
-    },
-    {
-      "name": "Customslimeball",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "customslimeball",
-      "metadata": {
-        "files": [
-          "src/main/data/earthpolrecipes/recipes/customslimeball.json"
         ]
       }
     },
@@ -693,6 +609,318 @@
       "metadata": {
         "files": [
           "src/main/data/earthpolrecipes/recipes/custom_moss_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "PackedIce",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "packed_ice",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/packed_ice.json"
+        ]
+      }
+    },
+    {
+      "name": "PoweredRail",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "powered_rail",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/powered_rail.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteUpgradeSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_upgrade_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/netherite_upgrade_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldenCarrot",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_carrot",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/golden_carrot.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueIce",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_ice",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/blue_ice.json"
+        ]
+      }
+    },
+    {
+      "name": "WildArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wild_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/wild_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "WardArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ward_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/ward_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "VexArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vex_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/vex_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "TideArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tide_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/tide_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "SpireArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spire_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/spire_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "SnoutArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snout_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/snout_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "RibArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rib_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/rib_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "SilenceArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silence_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/silence_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "ShaperArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaper_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/shaper_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "SentryArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sentry_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/sentry_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "HostArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "host_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/host_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "CoastArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coast_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/coast_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "DuneArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dune_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/dune_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "EyeArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eye_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/eye_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "RaiserArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raiser_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/raiser_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "WayfinderArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wayfinder_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/wayfinder_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomPackedIceDecompress",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_packed_ice_decompress",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_packed_ice_decompress.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomHeartOfTheSea",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_heart_of_the_sea",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_heart_of_the_sea.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomGunpowder",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_gunpowder",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_gunpowder.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomBlueIceDecompress",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_blue_ice_decompress",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_blue_ice_decompress.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomSlimeball",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_slimeball",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_slimeball.json"
         ]
       }
     }

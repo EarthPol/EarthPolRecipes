@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "category": "misc",
   "pattern": [
     "aba",
     "aba",
@@ -8,14 +8,14 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:copper_ingot"
     },
     "b": {
-      "item": "minecraft:netherrack"
+      "item": "minecraft:cobbled_deepslate"
     }
   },
   "result": {
-    "id": "minecraft:netherite_upgrade_smithing_template",
+    "id": "minecraft:ward_armor_trim_smithing_template",
     "count": 1
   }
 }

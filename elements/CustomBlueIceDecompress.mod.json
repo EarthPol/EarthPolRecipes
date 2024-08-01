@@ -3,13 +3,13 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 4,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "craftingBookCategory": "MISC",
-    "recipeShapeless": false,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -24,10 +24,10 @@
         "value": ""
       },
       {
-        "value": "Items.SNOWBALL"
+        "value": "Blocks.BLUE_ICE"
       },
       {
-        "value": "Items.DYE#2"
+        "value": ""
       },
       {
         "value": ""
@@ -40,9 +40,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SLIME_BALL"
+      "value": "Blocks.PACKED_ICE"
     },
-    "name": "custom_slimeball",
+    "name": "custom_blue_ice_decompress",
     "namespace": "mod"
   }
 }

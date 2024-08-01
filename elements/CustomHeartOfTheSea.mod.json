@@ -12,37 +12,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.DIAMOND_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.PRISMARINE#0"
       },
       {
-        "value": ""
+        "value": "Blocks.DIAMOND_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.PRISMARINE#0"
       },
       {
-        "value": "Items.SNOWBALL"
+        "value": "Items.NAUTILUS_SHELL"
       },
       {
-        "value": "Items.DYE#2"
+        "value": "Blocks.PRISMARINE#0"
       },
       {
-        "value": ""
+        "value": "Blocks.DIAMOND_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.PRISMARINE#0"
       },
       {
-        "value": ""
+        "value": "Blocks.DIAMOND_BLOCK"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SLIME_BALL"
+      "value": "Items.HEART_OF_THE_SEA"
     },
-    "name": "custom_slimeball",
+    "name": "custom_heart_of_the_sea",
     "namespace": "mod"
   }
 }

@@ -11,10 +11,10 @@
       "item": "minecraft:copper_ingot"
     },
     "b": {
-      "item": "minecraft:stick"
+      "item": "minecraft:redstone"
     },
     "c": {
-      "item": "minecraft:redstone"
+      "item": "minecraft:stick"
     }
   },
   "result": {

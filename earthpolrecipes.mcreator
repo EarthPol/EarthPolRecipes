@@ -935,6 +935,30 @@
           "src/main/data/earthpolrecipes/recipes/custom_netherwart_block_decompress.json"
         ]
       }
+    },
+    {
+      "name": "EndCrystal",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_crystal",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipes/end_crystal.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomGhastTear",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_ghast_tear",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/custom_ghast_tear.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

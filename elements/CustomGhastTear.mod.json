@@ -1,0 +1,22 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.SWEET_BERRIES"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.GHAST_TEAR"
+    },
+    "name": "custom_ghast_tear",
+    "namespace": "mod"
+  }
+}

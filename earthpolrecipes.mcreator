@@ -923,6 +923,18 @@
           "src/main/data/earthpolrecipes/recipes/custom_slimeball.json"
         ]
       }
+    },
+    {
+      "name": "CustomNetherwartBlockDecompress",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_netherwart_block_decompress",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipes/crafting_table.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

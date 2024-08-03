@@ -925,14 +925,14 @@
       }
     },
     {
-      "name": "CustomNetherwartBlockDecompress",
+      "name": "CustomNetherWartDecompress",
       "type": "recipe",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "custom_netherwart_block_decompress",
+      "registry_name": "custom_nether_wart_decompress",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/crafting_table.json"
+          "src/main/data/earthpolrecipes/recipes/custom_netherwart_block_decompress.json"
         ]
       }
     }

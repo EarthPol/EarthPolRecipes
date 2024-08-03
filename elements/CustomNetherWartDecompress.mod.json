@@ -42,7 +42,7 @@
     "recipeReturnStack": {
       "value": "Blocks.NETHER_WART"
     },
-    "name": "crafting_table",
+    "name": "custom_netherwart_block_decompress",
     "namespace": "mod"
   }
 }

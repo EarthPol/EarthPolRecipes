@@ -959,6 +959,18 @@
           "src/main/data/earthpolrecipes/recipe/custom_ghast_tear.json"
         ]
       }
+    },
+    {
+      "name": "Crafter",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafter",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/crafter.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

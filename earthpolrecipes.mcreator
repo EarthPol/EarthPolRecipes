@@ -995,6 +995,30 @@
           "src/main/data/minecraft/recipe/bolt_armor_trim_smithing_template.json"
         ]
       }
+    },
+    {
+      "name": "CustomSandToRedSand",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_sand_to_red_sand",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_sand_to_red_sand.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomRedSandToSand",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_red_sand_to_sand",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_red_sand_to_sand.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

@@ -971,6 +971,30 @@
           "src/main/data/minecraft/recipe/crafter.json"
         ]
       }
+    },
+    {
+      "name": "FlowArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flow_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/flow_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "BoltArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bolt_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/bolt_armor_trim_smithing_template.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

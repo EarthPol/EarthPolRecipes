@@ -1019,6 +1019,18 @@
           "src/main/data/earthpolrecipes/recipe/custom_red_sand_to_sand.json"
         ]
       }
+    },
+    {
+      "name": "CustomSmeltingBlazeRod",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_smelting_blaze_rod",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_smelting_blaze_rod.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

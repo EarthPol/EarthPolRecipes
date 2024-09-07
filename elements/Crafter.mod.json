@@ -12,31 +12,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Items.NETHERITE_INGOT"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": "Blocks.FIRE"
+        "value": "Blocks.CRAFTING_TABLE"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.REDSTONE_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.DROPPER"
       },
       {
-        "value": ""
+        "value": "Blocks.REDSTONE_BLOCK"
       }
     ],
     "recipeReturnStack": {

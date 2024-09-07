@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:fire"
+    }
+  },
+  "result": {
+    "id": "minecraft:crafter",
+    "count": 1
+  }
+}

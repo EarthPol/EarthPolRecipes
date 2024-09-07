@@ -1,5 +1,5 @@
 {
-  "_fv": 66,
+  "_fv": 69,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -24,7 +24,7 @@
         "value": ""
       },
       {
-        "value": "Items.COAL"
+        "value": "Items.COAL#0"
       },
       {
         "value": ""

@@ -8,7 +8,7 @@
       "registry_name": "chainboots",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/chain_boots.json"
+          "src/main/data/earthpolrecipes/recipe/chain_boots.json"
         ]
       }
     },
@@ -20,7 +20,7 @@
       "registry_name": "stringtowhitewool",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/string_to_white_wool.json"
+          "src/main/data/earthpolrecipes/recipe/string_to_white_wool.json"
         ]
       }
     },
@@ -32,7 +32,7 @@
       "registry_name": "chainchestplate",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/chain_chestplate.json"
+          "src/main/data/earthpolrecipes/recipe/chain_chestplate.json"
         ]
       }
     },
@@ -44,7 +44,7 @@
       "registry_name": "chainhelmet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/chain_helmet.json"
+          "src/main/data/earthpolrecipes/recipe/chain_helmet.json"
         ]
       }
     },
@@ -56,7 +56,7 @@
       "registry_name": "chainleggings",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/chain_leggings.json"
+          "src/main/data/earthpolrecipes/recipe/chain_leggings.json"
         ]
       }
     },
@@ -68,7 +68,7 @@
       "registry_name": "custombell",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_bell.json"
+          "src/main/data/earthpolrecipes/recipe/custom_bell.json"
         ]
       }
     },
@@ -80,7 +80,7 @@
       "registry_name": "customblackstone",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_blackstone.json"
+          "src/main/data/earthpolrecipes/recipe/custom_blackstone.json"
         ]
       }
     },
@@ -92,7 +92,7 @@
       "registry_name": "customblazerod",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_blaze_rod.json"
+          "src/main/data/earthpolrecipes/recipe/custom_blaze_rod.json"
         ]
       }
     },
@@ -104,7 +104,7 @@
       "registry_name": "custombundle",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_bundle.json"
+          "src/main/data/earthpolrecipes/recipe/custom_bundle.json"
         ]
       }
     },
@@ -116,7 +116,7 @@
       "registry_name": "customdiamondhorsearmor",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_diamond_horse_armor.json"
+          "src/main/data/earthpolrecipes/recipe/custom_diamond_horse_armor.json"
         ]
       }
     },
@@ -128,7 +128,7 @@
       "registry_name": "customdragonsbreath",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_dragons_breath.json"
+          "src/main/data/earthpolrecipes/recipe/custom_dragons_breath.json"
         ]
       }
     },
@@ -140,7 +140,7 @@
       "registry_name": "customendstone",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_end_stone.json"
+          "src/main/data/earthpolrecipes/recipe/custom_end_stone.json"
         ]
       }
     },
@@ -152,7 +152,7 @@
       "registry_name": "glisteringmelonslice",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/glistering_melon_slice.json"
+          "src/main/data/minecraft/recipe/glistering_melon_slice.json"
         ]
       }
     },
@@ -164,7 +164,7 @@
       "registry_name": "customglowstone",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_glowstone.json"
+          "src/main/data/earthpolrecipes/recipe/custom_glowstone.json"
         ]
       }
     },
@@ -176,7 +176,7 @@
       "registry_name": "customgoldhorsearmor",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_gold_horse_armor.json"
+          "src/main/data/earthpolrecipes/recipe/custom_gold_horse_armor.json"
         ]
       }
     },
@@ -188,7 +188,7 @@
       "registry_name": "customironhorsearmor",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_iron_horse_armor.json"
+          "src/main/data/earthpolrecipes/recipe/custom_iron_horse_armor.json"
         ]
       }
     },
@@ -200,7 +200,7 @@
       "registry_name": "customleatherhorsearmor",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_leather_horse_armor.json"
+          "src/main/data/earthpolrecipes/recipe/custom_leather_horse_armor.json"
         ]
       }
     },
@@ -212,7 +212,7 @@
       "registry_name": "customnetheriteupgrade",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_netherite_upgrade.json"
+          "src/main/data/earthpolrecipes/recipe/custom_netherite_upgrade.json"
         ]
       }
     },
@@ -224,7 +224,7 @@
       "registry_name": "customnetherrack",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_netherrack.json"
+          "src/main/data/earthpolrecipes/recipe/custom_netherrack.json"
         ]
       }
     },
@@ -236,7 +236,7 @@
       "registry_name": "customprismarineshard",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_prismarine_shard.json"
+          "src/main/data/earthpolrecipes/recipe/custom_prismarine_shard.json"
         ]
       }
     },
@@ -248,7 +248,7 @@
       "registry_name": "customquartz",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_quartz.json"
+          "src/main/data/earthpolrecipes/recipe/custom_quartz.json"
         ]
       }
     },
@@ -260,7 +260,7 @@
       "registry_name": "customsaddle",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_saddle.json"
+          "src/main/data/earthpolrecipes/recipe/custom_saddle.json"
         ]
       }
     },
@@ -272,7 +272,7 @@
       "registry_name": "customsoulsand",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_soul_sand.json"
+          "src/main/data/earthpolrecipes/recipe/custom_soul_sand.json"
         ]
       }
     },
@@ -284,7 +284,7 @@
       "registry_name": "customsponge",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_sponge.json"
+          "src/main/data/earthpolrecipes/recipe/custom_sponge.json"
         ]
       }
     },
@@ -296,7 +296,7 @@
       "registry_name": "customstring",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_string.json"
+          "src/main/data/earthpolrecipes/recipe/custom_string.json"
         ]
       }
     },
@@ -308,7 +308,7 @@
       "registry_name": "customprismarinecrystal",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_prismarine_crystal.json"
+          "src/main/data/earthpolrecipes/recipe/custom_prismarine_crystal.json"
         ]
       }
     },
@@ -320,7 +320,7 @@
       "registry_name": "custominksac",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_inksac.json"
+          "src/main/data/earthpolrecipes/recipe/custom_inksac.json"
         ]
       }
     },
@@ -332,7 +332,7 @@
       "registry_name": "customnetherwart",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_nether_wart.json"
+          "src/main/data/earthpolrecipes/recipe/custom_nether_wart.json"
         ]
       }
     },
@@ -344,7 +344,7 @@
       "registry_name": "customwarpednylium",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_warped_nylium.json"
+          "src/main/data/earthpolrecipes/recipe/custom_warped_nylium.json"
         ]
       }
     },
@@ -356,7 +356,7 @@
       "registry_name": "customcrimsonnylium",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_crimson_nylium.json"
+          "src/main/data/earthpolrecipes/recipe/custom_crimson_nylium.json"
         ]
       }
     },
@@ -368,7 +368,7 @@
       "registry_name": "custom_pearlscent_froglight",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_pearlscent_froglight.json"
+          "src/main/data/earthpolrecipes/recipe/custom_pearlscent_froglight.json"
         ]
       }
     },
@@ -380,7 +380,7 @@
       "registry_name": "custom_verdant_froglight",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_verdant_froglight.json"
+          "src/main/data/earthpolrecipes/recipe/custom_verdant_froglight.json"
         ]
       }
     },
@@ -392,7 +392,7 @@
       "registry_name": "customochrefroglight",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_ochre_froglight.json"
+          "src/main/data/earthpolrecipes/recipe/custom_ochre_froglight.json"
         ]
       }
     },
@@ -404,7 +404,7 @@
       "registry_name": "customchorusflower",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_chorus_flower.json"
+          "src/main/data/earthpolrecipes/recipe/custom_chorus_flower.json"
         ]
       }
     },
@@ -416,7 +416,7 @@
       "registry_name": "customwhitecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_white_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_white_carpet.json"
         ]
       }
     },
@@ -428,7 +428,7 @@
       "registry_name": "customorangecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_orange_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_orange_carpet.json"
         ]
       }
     },
@@ -440,7 +440,7 @@
       "registry_name": "custommagentacarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_magenta_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_magenta_carpet.json"
         ]
       }
     },
@@ -452,7 +452,7 @@
       "registry_name": "customlightbluecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_light_blue_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_light_blue_carpet.json"
         ]
       }
     },
@@ -464,7 +464,7 @@
       "registry_name": "customyellowcarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_yellow_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_yellow_carpet.json"
         ]
       }
     },
@@ -476,7 +476,7 @@
       "registry_name": "customlimecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_lime_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_lime_carpet.json"
         ]
       }
     },
@@ -488,7 +488,7 @@
       "registry_name": "custompinkcarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_pink_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_pink_carpet.json"
         ]
       }
     },
@@ -500,7 +500,7 @@
       "registry_name": "customgraycarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_gray_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_gray_carpet.json"
         ]
       }
     },
@@ -512,7 +512,7 @@
       "registry_name": "customlightgraycarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_light_gray_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_light_gray_carpet.json"
         ]
       }
     },
@@ -524,7 +524,7 @@
       "registry_name": "customcyancarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_cyan_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_cyan_carpet.json"
         ]
       }
     },
@@ -536,7 +536,7 @@
       "registry_name": "custompurplecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_purple_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_purple_carpet.json"
         ]
       }
     },
@@ -548,7 +548,7 @@
       "registry_name": "custombluecarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_blue_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_blue_carpet.json"
         ]
       }
     },
@@ -560,7 +560,7 @@
       "registry_name": "custombrowncarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_brown_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_brown_carpet.json"
         ]
       }
     },
@@ -572,7 +572,7 @@
       "registry_name": "customgreencarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_green_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_green_carpet.json"
         ]
       }
     },
@@ -584,7 +584,7 @@
       "registry_name": "customredcarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_red_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_red_carpet.json"
         ]
       }
     },
@@ -596,7 +596,7 @@
       "registry_name": "customblackcarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_black_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_black_carpet.json"
         ]
       }
     },
@@ -608,7 +608,7 @@
       "registry_name": "custommosscarpet",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_moss_carpet.json"
+          "src/main/data/earthpolrecipes/recipe/custom_moss_carpet.json"
         ]
       }
     },
@@ -620,7 +620,7 @@
       "registry_name": "packed_ice",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/packed_ice.json"
+          "src/main/data/minecraft/recipe/packed_ice.json"
         ]
       }
     },
@@ -632,7 +632,7 @@
       "registry_name": "powered_rail",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/powered_rail.json"
+          "src/main/data/minecraft/recipe/powered_rail.json"
         ]
       }
     },
@@ -644,7 +644,7 @@
       "registry_name": "netherite_upgrade_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/netherite_upgrade_smithing_template.json"
+          "src/main/data/minecraft/recipe/netherite_upgrade_smithing_template.json"
         ]
       }
     },
@@ -656,7 +656,7 @@
       "registry_name": "golden_carrot",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/golden_carrot.json"
+          "src/main/data/minecraft/recipe/golden_carrot.json"
         ]
       }
     },
@@ -668,7 +668,7 @@
       "registry_name": "blue_ice",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/blue_ice.json"
+          "src/main/data/minecraft/recipe/blue_ice.json"
         ]
       }
     },
@@ -680,7 +680,7 @@
       "registry_name": "wild_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/wild_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/wild_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -692,7 +692,7 @@
       "registry_name": "ward_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/ward_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/ward_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -704,7 +704,7 @@
       "registry_name": "vex_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/vex_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/vex_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -716,7 +716,7 @@
       "registry_name": "tide_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/tide_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/tide_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -728,7 +728,7 @@
       "registry_name": "spire_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/spire_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/spire_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -740,7 +740,7 @@
       "registry_name": "snout_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/snout_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/snout_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -752,7 +752,7 @@
       "registry_name": "rib_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/rib_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/rib_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -764,7 +764,7 @@
       "registry_name": "silence_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/silence_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/silence_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -776,7 +776,7 @@
       "registry_name": "shaper_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/shaper_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/shaper_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -788,7 +788,7 @@
       "registry_name": "sentry_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/sentry_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/sentry_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -800,7 +800,7 @@
       "registry_name": "host_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/host_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/host_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -812,7 +812,7 @@
       "registry_name": "coast_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/coast_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/coast_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -824,7 +824,7 @@
       "registry_name": "dune_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/dune_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/dune_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -836,7 +836,7 @@
       "registry_name": "eye_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/eye_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/eye_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -848,7 +848,7 @@
       "registry_name": "raiser_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/raiser_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/raiser_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -860,7 +860,7 @@
       "registry_name": "wayfinder_armor_trim_smithing_template",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/wayfinder_armor_trim_smithing_template.json"
+          "src/main/data/minecraft/recipe/wayfinder_armor_trim_smithing_template.json"
         ]
       }
     },
@@ -872,7 +872,7 @@
       "registry_name": "custom_packed_ice_decompress",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_packed_ice_decompress.json"
+          "src/main/data/earthpolrecipes/recipe/custom_packed_ice_decompress.json"
         ]
       }
     },
@@ -884,7 +884,7 @@
       "registry_name": "custom_heart_of_the_sea",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_heart_of_the_sea.json"
+          "src/main/data/earthpolrecipes/recipe/custom_heart_of_the_sea.json"
         ]
       }
     },
@@ -896,7 +896,7 @@
       "registry_name": "custom_gunpowder",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_gunpowder.json"
+          "src/main/data/earthpolrecipes/recipe/custom_gunpowder.json"
         ]
       }
     },
@@ -908,7 +908,7 @@
       "registry_name": "custom_blue_ice_decompress",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_blue_ice_decompress.json"
+          "src/main/data/earthpolrecipes/recipe/custom_blue_ice_decompress.json"
         ]
       }
     },
@@ -920,7 +920,7 @@
       "registry_name": "custom_slimeball",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_slimeball.json"
+          "src/main/data/earthpolrecipes/recipe/custom_slimeball.json"
         ]
       }
     },
@@ -932,7 +932,7 @@
       "registry_name": "custom_nether_wart_decompress",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_netherwart_block_decompress.json"
+          "src/main/data/earthpolrecipes/recipe/custom_netherwart_block_decompress.json"
         ]
       }
     },
@@ -944,7 +944,7 @@
       "registry_name": "end_crystal",
       "metadata": {
         "files": [
-          "src/main/data/minecraft/recipes/end_crystal.json"
+          "src/main/data/minecraft/recipe/end_crystal.json"
         ]
       }
     },
@@ -956,7 +956,79 @@
       "registry_name": "custom_ghast_tear",
       "metadata": {
         "files": [
-          "src/main/data/earthpolrecipes/recipes/custom_ghast_tear.json"
+          "src/main/data/earthpolrecipes/recipe/custom_ghast_tear.json"
+        ]
+      }
+    },
+    {
+      "name": "Crafter",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafter",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/crafter.json"
+        ]
+      }
+    },
+    {
+      "name": "FlowArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flow_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/flow_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "BoltArmorTrimSmithingTemplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bolt_armor_trim_smithing_template",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/recipe/bolt_armor_trim_smithing_template.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomSandToRedSand",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_sand_to_red_sand",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_sand_to_red_sand.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomRedSandToSand",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_red_sand_to_sand",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_red_sand_to_sand.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomSmeltingBlazeRod",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_smelting_blaze_rod",
+      "metadata": {
+        "files": [
+          "src/main/data/earthpolrecipes/recipe/custom_smelting_blaze_rod.json"
         ]
       }
     }
@@ -984,8 +1056,9 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "datapack-1.20.6",
+    "currentGenerator": "datapack-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.earthpolrecipes"
   },
-  "mcreatorVersion": 202400229712
+  "mcreatorVersion": 202400334715
 }

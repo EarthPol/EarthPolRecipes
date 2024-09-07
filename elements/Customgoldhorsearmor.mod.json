@@ -1,5 +1,5 @@
 {
-  "_fv": 66,
+  "_fv": 69,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -12,31 +12,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.GOLD_NUGGET"
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": ""
-      },
-      {
-        "value": "Items.GOLD_NUGGET"
-      },
-      {
-        "value": "Items.GOLD_NUGGET"
       },
       {
         "value": "Items.GOLD_INGOT"
       },
       {
-        "value": "Items.GOLD_NUGGET"
+        "value": "Items.GOLD_INGOT"
       },
       {
-        "value": "Items.GOLD_NUGGET"
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.GOLD_NUGGET"
+        "value": "Items.GOLD_INGOT"
       }
     ],
     "recipeReturnStack": {

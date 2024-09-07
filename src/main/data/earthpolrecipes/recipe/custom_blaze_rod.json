@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:iron_bars"
+  },
+  "result": {
+    "id": "minecraft:blaze_rod"
+  }
+}

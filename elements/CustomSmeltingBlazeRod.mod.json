@@ -1,0 +1,22 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.IRON_BARS"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.BLAZE_ROD"
+    },
+    "name": "custom_smelting_blaze_rod",
+    "namespace": "mod"
+  }
+}
